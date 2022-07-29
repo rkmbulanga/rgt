@@ -1,0 +1,12 @@
+.nav-item a{
+    font-size: 12px !important;
+    text-transform: lowercase !important;
+   font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+
+.banner{
+    height: 600px;
+    background-image: url('rgt.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
